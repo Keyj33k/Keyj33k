@@ -13,3 +13,4 @@ I'm Key, interested in tech and i love programming with:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keyj33k&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 ## ~ Nothing works entirely without a CPU. ~
+![ONI](https://github.githubassets.com/images/icons/emoji/unicode/1f479.png)
