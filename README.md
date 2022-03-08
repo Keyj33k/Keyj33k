@@ -13,4 +13,6 @@ I'm Key, interested in tech and i love programming:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keyj33k&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyj33k)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ~ Nothing works entirely without a CPU. ~
