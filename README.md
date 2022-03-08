@@ -1,8 +1,8 @@
 # Greetings! 👋
 
-I'm Key, interested in tech and i love programming:
+I'm Key, interested in tech and i love programming with:
 
-in [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyj33k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyj33k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linux enthusiast: 
 
