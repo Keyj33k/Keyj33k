@@ -1,4 +1,4 @@
-### Greetings! 👋
+## Greetings! 👋
 
 I'm Key, interested in tech. I love programming in:
 
