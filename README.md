@@ -11,5 +11,6 @@ I'm Key, interested in tech and i love programming:
 - ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white) was my first Linux distro and is still today my choice for programming.
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keyj33k&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## ~ Nothing works entirely without a CPU. ~
