@@ -10,4 +10,4 @@ I'm Key, interested in tech and i love programming:
 
 - ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white) was my first Linux distro and is still today my choice for programming.
 
-## ~Nothing works entirely without a CPU.~
+## ~ Nothing works entirely without a CPU. ~
