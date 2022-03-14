@@ -9,8 +9,8 @@ I'm Key, interested in tech and i love programming with:
 - I'm using ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) for pentesting and educational purposes.
 
 
-- <a href="https://kubuntu.org/">
-  <img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white" alt="Github Badge"/>
+<a href="https://kubuntu.org/">
+-  <img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white" alt="Github Badge"/>
 </a>
 was my first Linux distro and is still today my choice.
 
