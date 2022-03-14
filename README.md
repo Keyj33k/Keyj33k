@@ -6,7 +6,7 @@ I'm Key, interested in tech and i love programming with:
 
 # :fire: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) Enthusiast: 
 
-- I'm using 
+I'm using 
 <a href="https://www.kali.org/">
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Github Badge"/>
 </a>
