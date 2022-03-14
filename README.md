@@ -16,7 +16,7 @@ I'm Key, interested in tech and i love programming with:
 ## ~ Nothing works entirely without a CPU. ~
 ![ONI](https://github.githubassets.com/images/icons/emoji/unicode/1f479.png)
 
-## Thank you
+# Thank you
 
 <div id="badges">
   <a href="https://www.instagram.com/keyjeek/">
