@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-I'm Keyj33k, interested in tech and i love programming with:
+I'm Keyj33k, interested in tech and i love coding with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyj33k&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
