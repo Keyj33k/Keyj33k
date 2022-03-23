@@ -19,8 +19,8 @@ was my first Linux distro and is still today my choice.
 
 # [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keyj33k&theme=dark&background=000000)](https://git.io/streak-stats) 
 
- ~ Nothing works entirely without a CPU. ~
-<p>
+ ~ Nothing works entirely without a CPU. ~<br>
+
 ![ONI](https://github.githubassets.com/images/icons/emoji/unicode/1f479.png)
 
 # Thank you
