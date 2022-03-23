@@ -16,10 +16,8 @@ I'm using
   <img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white" alt="Kubuntu Badge"/>
 </a>
 was my first Linux distro and is still today my choice.
----
----
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keyj33k&theme=dark&background=000000)](https://git.io/streak-stats) 
+# [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keyj33k&theme=dark&background=000000)](https://git.io/streak-stats) 
 
 ## ~ Nothing works entirely without a CPU. ~
 ![ONI](https://github.githubassets.com/images/icons/emoji/unicode/1f479.png)
