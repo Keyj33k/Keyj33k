@@ -23,6 +23,19 @@ was my first Linux distro and is still today my choice.
 
 ![ONI](https://github.githubassets.com/images/icons/emoji/unicode/1f479.png)
 
+<style>
+  .banner
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+</style>
+<div class="banner">
+  <img src="https://raw.githubusercontent.com/Keyj33k/profiles/main/profile/cpp.jpeg" alt="cpp">
+</div>
+
 # Thank you
 
 <div id="badges">
