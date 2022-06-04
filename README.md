@@ -1,4 +1,4 @@
-# Greetings! 👋
+# Greetings! ![ONI](https://github.githubassets.com/images/icons/emoji/unicode/1f479.png) 
 
 - I'm Keyj33k, interested in tech and programming:snake::
 
