@@ -7,7 +7,7 @@
 - enthusiastic linux user
 - networking technology lover
 - interested in (manipulation of) tech, OSINT and programming
-- hate in relation to cybersecurity ignorance
+- hater in relation to cybersecurity ignorance
 - believer in windows curse
 
 ### Which tools and languages i am using?
