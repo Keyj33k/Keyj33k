@@ -1,5 +1,7 @@
 # Greetings!:snake:
 
+- Welcome to my Github profile!
+
 ### Whoami?
 ---
 - networking technology lover
