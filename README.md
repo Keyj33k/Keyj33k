@@ -33,6 +33,7 @@ RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
 ```
 
 ### Thank you and have a nice day!
+-
 ~ Keyjeek
 
 Nothing works entirely without a CPU.
