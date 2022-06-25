@@ -1,6 +1,7 @@
 # Greetings!:snake:
 
 ### Whoami?
+---
 - networking technology lover
 - interested in (manipulation of) tech, OSINT and programming
 - enthusiastic linux user
