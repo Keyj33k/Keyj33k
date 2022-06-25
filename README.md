@@ -7,11 +7,11 @@
 
 ### Whoami?
 ---
+- enthusiastic linux user
 - networking technology lover
 - interested in (manipulation of) tech, OSINT and programming
-- enthusiastic linux user
-- believer in windows curse
 - hate in relation to cybersecurity ignorance
+- believer in windows curse
 
 ### Which tools and languages i am using?
 ---
