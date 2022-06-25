@@ -31,7 +31,7 @@
 ```
 RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
 ```
- - and always remenber: think before you click
+and always remenber: think before you click
 
 <br>Nothing works entirely without a CPU.<br>
 
