@@ -1,16 +1,10 @@
-<style>
-  img.shakehand{
-    with: 120px;
-    height: auto;
-  }
-</style>
+- Welcome to my Github profile!
+
 
 <h1>
   Greetings
   <img class="shakehand" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 </h1>
-
-- Welcome to my Github profile!
 
 ### Whoami?
 ---
