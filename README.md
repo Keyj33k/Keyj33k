@@ -6,7 +6,7 @@
 ---
 - enthusiastic linux user
 - networking technology lover
-- interested in (manipulation of) tech, OSINT and programming
+- interested in (manipulation of) tech, OSINT/information gathering and programming
 - hater in relation to cybersecurity ignorance
 - believer in windows curse
 
