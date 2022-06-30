@@ -1,6 +1,6 @@
 # Greetings<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" height="5%"/>
 
-- Welcome to my Github profile!
+- I'm Keyjeek, welcome to my Github profile!
 
 ### Whoami?
 ---
