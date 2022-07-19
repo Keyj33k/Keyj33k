@@ -1,14 +1,14 @@
 # Greetings<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20%" height="20%"/>
 
-- I'm Keyjeek, welcome to my Github profile!
+- I'm Keyjeek, welcome to my Github profile:grey_exclamation:
 
-### Whoami?
+### Whoami:grey_question:
 ---
-- enthusiastic linux user
-- networking technology lover
-- interested in (manipulation of) tech, OSINT/information gathering and programming
-- hater in relation to cybersecurity ignorance
-- believer in windows curse
+- :penguin:enthusiastic linux user
+- :satellite:networking technology lover
+- :computer:interested in (manipulation of) tech, OSINT/information gathering and programming
+- :skull:hater in relation to cybersecurity ignorance
+- :ghost:believer in windows curse
 
 ### Which tools and languages i am using?
 ---
@@ -30,7 +30,7 @@
 RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
 ```
 
-### Social Media
+### :iphone:Social Media
 
 ---
 
