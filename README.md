@@ -2,9 +2,11 @@
 
 - I'm Keyjeek, welcome to my Github profile!
 
-Hunter-Toolkit:
+Social Media
 
 ---
+
+Hunter-Toolkit:
 
 <a href="https://www.instagram.com/huntertoolkit/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
@@ -15,11 +17,11 @@ Hunter-Toolkit:
 
 Personal:
 
----
-
 <a href="https://www.instagram.com/keyjeek/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
+
+---
 
 ### Whoami?
 ---
