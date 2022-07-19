@@ -2,14 +2,24 @@
 
 - I'm Keyjeek, welcome to my Github profile!
 
-<div id="badges">
-  <a href="https://www.instagram.com/huntertoolkit/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://twitter.com/huntertoolkit">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+Hunter-Toolkit:
+
+---
+
+<a href="https://www.instagram.com/huntertoolkit/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+<a href="https://twitter.com/huntertoolkit">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+
+Personal:
+
+---
+
+<a href="https://www.instagram.com/keyjeek/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
 
 ### Whoami?
 ---
