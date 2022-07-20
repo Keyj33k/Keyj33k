@@ -1,4 +1,4 @@
-# Greetings:grey_exclamation:
+# Greetings:wave:
 
 - I'm Keyjeek, welcome to my Github profile:grey_exclamation:
 
