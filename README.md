@@ -36,17 +36,8 @@ RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
 
 Hunter-Toolkit :japanese_ogre::
 
-<a href="https://www.instagram.com/huntertoolkit/">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
 <a href="https://twitter.com/huntertoolkit">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
-
-Personal :space_invader::
-
-<a href="https://www.instagram.com/keyjeek/">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
 ---
