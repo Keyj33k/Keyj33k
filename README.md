@@ -31,17 +31,6 @@
 ```
 RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
 ```
-
-### :iphone:Social Media
-
----
-
-Hunter-Toolkit :japanese_ogre::
-
-<a href="https://twitter.com/huntertoolkit">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</a>
-
 ---
 
 <br>Life could be much easier if i had the source code.<br>
