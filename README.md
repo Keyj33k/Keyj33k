@@ -2,7 +2,7 @@
 
 - I'm Keyjeek, welcome to my Github profile:grey_exclamation:
 
-### A quick overview
+### A quick overview:
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyj33k&show_icons=true&theme=chartreuse-dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keyj33k&theme=chartreuse-dark)](https://git.io/streak-stats)
