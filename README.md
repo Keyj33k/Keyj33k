@@ -2,7 +2,7 @@
 
 - I'm Keyjeek, welcome to my Github profile:grey_exclamation:
 
-### A quick overview:
+### A quick overview :sparkles::
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyj33k&show_icons=true&theme=chartreuse-dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keyj33k&theme=chartreuse-dark)](https://git.io/streak-stats)
@@ -15,7 +15,7 @@
 - :skull: hater in relation to cybersecurity ignorance
 - :ghost: believer in windows curse
 
-### Which tools and languages i am using?
+### Which tools and languages i am using:grey_question:
 ---
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/386b29ef.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
