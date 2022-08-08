@@ -33,9 +33,15 @@
 ```
 RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
 ```
----
 
-<br>Life could be much easier if i had the source code.<br>
+
+<br>
+<div align="center">
+  
+  ### Life could be much easier if i had the source code.
+
+</div>
+<br>
 
 <div align="center">
 
