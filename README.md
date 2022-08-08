@@ -4,8 +4,7 @@
 
 ### A quick overview :sparkles::
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keyj33k&show_icons=true&theme=chartreuse-dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keyj33k&theme=chartreuse-dark)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Keyj33k&show_icons=true&theme=chartreuse-dark" width="400"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Keyj33k&theme=chartreuse-dark" href="https://git.io/streak-stats" width="400"> 
 
 ### Whoami:grey_question:
 ---
