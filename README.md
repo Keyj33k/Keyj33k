@@ -37,8 +37,12 @@ RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
 
 <br>Life could be much easier if i had the source code.<br>
 
+<div align="center">
+
 ## Thank you and have a nice day!
 
 ~ Keyjeek
+  
+</div>
 
 
