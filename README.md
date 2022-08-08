@@ -41,14 +41,6 @@ RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
   ### Life could be much easier if i had the source code.
 
 </div>
-<br>
 
-<div align="center">
-
-## Thank you and have a nice day!
-
-~ Keyjeek
-  
-</div>
 
 
