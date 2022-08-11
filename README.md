@@ -1,6 +1,10 @@
-# Greetings:wave:
+<div align="center">
 
-- I'm Keyjeek, welcome to my Github profile:grey_exclamation:
+  # Greetings:wave:
+
+  I'm Keyjeek, welcome to my Github profile:grey_exclamation:
+
+</div>
 
 ### A quick overview :sparkles::
 ---
