@@ -6,6 +6,12 @@
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=Keyj33k&show_icons=true&theme=chartreuse-dark" width="400"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Keyj33k&theme=chartreuse-dark" href="https://git.io/streak-stats" width="400"> 
 
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyj33k&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 ### Whoami:grey_question:
 ---
 - :penguin: enthusiastic linux user
