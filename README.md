@@ -50,7 +50,7 @@ RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
 <br>
 <div align="center">
   
-  ### Life could be much easier if i had the source code.
+  ### Coding is the way, how I can express myself better.
 
 </div>
 
