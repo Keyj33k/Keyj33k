@@ -50,7 +50,7 @@ RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
 <br>
 <div align="center">
   
-  ### Coding is the way, how I can express myself better.
+  ### If you stuck in a while loop, add a break statement.
 
 </div>
 
