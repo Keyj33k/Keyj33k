@@ -39,7 +39,7 @@
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/kalilinux.png?raw=true" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/wireshark.png?raw=true" title="Wireshark" alt="Wireshark" width="40" height="40"/>&nbsp;
 
-### NOTE:snake::
+### NOTE:
 ---
 ```
 RG9uJ3QgbGVhcm4gdG8gaGFjay4gSGFjayB0byBsZWFybi4=
