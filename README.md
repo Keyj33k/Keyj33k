@@ -23,7 +23,6 @@
 - :satellite: networking technology lover
 - :computer: interested in (manipulation of) tech, OSINT/information gathering and programming
 - :skull: hater in relation to cybersecurity ignorance
-- :ghost: believer in windows curse
 
 ### Which tools and languages i am using:grey_question:
 ---
