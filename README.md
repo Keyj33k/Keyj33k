@@ -41,7 +41,7 @@
 <br>
 <div align="center">
   
-  ### If you stuck in a while loop, add a break statement.
+  ### The meaning of programming !includes to learn just a language. It means that you need to /* think in struct and */ knowing how to set a statement.
 
 </div>
 
