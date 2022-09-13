@@ -17,13 +17,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Keyj33k&show_icons=true&theme=chartreuse-dark" width="400"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Keyj33k&theme=chartreuse-dark" href="https://git.io/streak-stats" width="400"> 
 
-### Whoami:grey_question:
----
-- :penguin: enthusiastic linux user
-- :satellite: networking technology lover
-- :computer: interested in (manipulation of) tech, OSINT/information gathering and programming
-- :skull: hater in relation to cybersecurity ignorance
-
 ### Which tools and languages i am using:grey_question:
 ---
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/386b29ef.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
@@ -39,11 +32,6 @@
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/wireshark.png?raw=true" title="Wireshark" alt="Wireshark" width="40" height="40"/>&nbsp;
 
 <br>
-<div align="center">
-  
-  ### The meaning of programming !includes to learn just a language. It means that you need to /* think in struct and */ knowing how to set a statement.
-
-</div>
 
 
 
