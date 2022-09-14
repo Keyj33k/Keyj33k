@@ -19,6 +19,8 @@
 
 <div align="center">
 
+---
+
 ![whoami](https://github.com/Keyj33k/Keyj33k/blob/main/img/Whoami.gif?raw=true)
 
 ### Which Tools And Languages I Am Using:grey_question:
@@ -36,6 +38,10 @@
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/wireshark.png?raw=true" title="Wireshark" alt="Wireshark" width="40" height="40"/>&nbsp;
 
 <br>
+
+```
+01000100 01101111 01101110 00100111 01110100 00100000 01101100 01100101 01100001 01110010 01101110 00100000 01110100 01101111 00100000 01101000 01100001 01100011 01101011 00101100 00100000 01101000 01100001 01100011 01101011 00100000 01110100 01101111 00100000 01101100 01100101 01100001 01110010 01101110 00101110
+```
 
 </div>
 
