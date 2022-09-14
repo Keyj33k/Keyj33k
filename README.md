@@ -2,7 +2,7 @@
 
   # Greetings:wave:
 
-  I'm Keyjeek, welcome to my Github profile:grey_exclamation:
+  ![banner](https://github.com/Keyj33k/Keyj33k/blob/main/img/banner.gif)
 
 </div>
 
