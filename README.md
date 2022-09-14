@@ -21,7 +21,7 @@
 
 ---
 
-![whoami](https://github.com/Keyj33k/Keyj33k/blob/main/img/Whoami.gif?raw=true)
+![whoami](https://github.com/Keyj33k/Keyj33k/blob/main/img/whoamiNEW.gif?raw=true)
 
 ### Which Tools And Languages I Am Using:grey_question:
 ---
