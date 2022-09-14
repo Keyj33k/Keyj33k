@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### A quick overview :sparkles::
+### A Quick Overview:
 ---
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyj33k&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### Which tools and languages i am using:grey_question:
+### Which Tools And Languages I Am Using:grey_question:
 ---
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/386b29ef.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
