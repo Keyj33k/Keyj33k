@@ -19,6 +19,8 @@
 
 <div align="center">
 
+![whoami](https://github.com/Keyj33k/Keyj33k/blob/main/img/whoamiGIF.gif?raw=true)
+
 ### Which Tools And Languages I Am Using:grey_question:
 ---
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/386b29ef.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
