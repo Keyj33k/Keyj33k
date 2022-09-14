@@ -36,10 +36,8 @@
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/bb.jpeg?raw=true" title="BackBox" alt="BackBox" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/kalilinux.png?raw=true" title="Kali" alt="Kali" width="40" height="40"/>&nbsp;
 <img src="https://github.com/Keyj33k/Keyj33k/blob/main/img/wireshark.png?raw=true" title="Wireshark" alt="Wireshark" width="40" height="40"/>&nbsp;
-
 <br>
 
----
   
 # Note:
 
